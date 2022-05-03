@@ -6,7 +6,8 @@
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
-Knowledge Reprezentation &amp; behavior Pattern Mining for specific figures
+Knowledge Reprezentation &amp; behavior Pattern Mining for specific figures  
+By:`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
@@ -42,7 +43,7 @@ Here is a random GIF as a placeholder.
 <!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Project Title](#KR-PM-for-specific-figure)
+- [Project Title](#kr-pm-for-specific-figure)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -76,7 +77,8 @@ Waiting……
 
 # Development
 [(Back to top)](#table-of-contents)  
-Waiting……
+For readme, we can go to 'readme-edit' branch(not 'main' branch) and then make our contributions. Finally we should create and merge pull requests.
+Emmm, maybe you need [this](https://docs.github.com/cn/get-started/quickstart/hello-world#merging-your-pull-request).
 <!-- This is the place where you give instructions to developers on how to modify the code.
 You could give **instructions in depth** of **how the code works** and how everything is put together.
 You could also give specific instructions to how they can setup their development environment.
@@ -84,7 +86,7 @@ Ideally, you should keep the README simple. If you need to add more complex expl
 
 # Contribute
 [(Back to top)](#table-of-contents)
-`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`
+
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
 Also this shows how you can add subsections within a section. -->
 
