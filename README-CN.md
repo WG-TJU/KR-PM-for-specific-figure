@@ -9,10 +9,11 @@
 ![school](https://img.shields.io/badge/院校-天津大学-blue)
 ![business](https://img.shields.io/badge/实训企业-中科闻歌-orange)
 <!-- Describe your project in brief -->
-KR(Knowledge Representation) &amp; behavior PM(Pattern Mining) for specific figures → KR&PM-FSF
-本项目选题由中科闻歌提供，开发者均来自于天津大学。目标是探索基于目标任务动态属性、静态属性、研判属性的知识表示体系建立方法，进一步构建人物的知识体系；在此基础上获取整理人物的各类数据、进行规律统计、模式挖掘，形成人物对象的研判属性知识。
-This is a project of 'Wenge', and developers are from `Tianjin University`. Our aim is to explore how to build the Knowledge Representation system and to mine distinct knowledge pattern basic on our KR system. 
-开发者:`艾祥合` & `刘子文` & `徐晓宇` & `张生耀`
+KR(Knowledge Representation) &amp; behavior PM(Pattern Mining) for specific figures → KR&PM-FSF  
+本项目选题由中科闻歌提供，开发者均来自于天津大学。  
+目标是探索基于目标任务动态属性、静态属性、研判属性的知识表示体系建立方法，进一步构建人物的知识体系；在此基础上获取整理人物的各类数据、进行规律统计、模式挖掘，形成人物对象的研判属性知识。  
+开发者:`艾祥合` & `刘子文` & `徐晓宇` & `张生耀`  
+企业指导老师：`云甘`
 
 # 项目预览
 
