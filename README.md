@@ -1,14 +1,18 @@
-
-# KR-PM-for-specific-figure
-Knowledge Reprezentation &amp; behavior Pattern Mining for specific figures
+![image](public/image/KR&PM-FSF.png)
+- [English](README.md)
+- [中文](README-CN.md)
 <!-- Add banner here -->
 
 # KR-PM-for-specific-figure
 
 <!-- Add buttons here -->
-
+![school](https://img.shields.io/badge/school-Tianjin%20University-blue)
+![business](https://img.shields.io/badge/business%20-Wenge-orange)
+![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 <!-- Describe your project in brief -->
-Knowledge Reprezentation &amp; behavior Pattern Mining for specific figures
+Knowledge Representation &amp; behavior Pattern Mining for specific figures  
+This is a project of 'Wenge', and developers are from `Tianjin University`. Our aim is to explore how to build the Knowledge Representation system and to mine distinct knowledge pattern basic on our KR system. 
+Developed by:`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
@@ -44,7 +48,7 @@ Here is a random GIF as a placeholder.
 <!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Project Title](#project-title)
+- [Project Title](#kr-pm-for-specific-figure)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -53,11 +57,13 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Contribute](#contribute)
     - [Sponsor](#sponsor)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
 - [Footer](#footer)
 
 # Installation
-[(Back to top)](#table-of-contents)
+[(Back to top)](#table-of-contents)  
+To use this project, first clone the repo on your device using the command below:
+```git init```
+```git clone https://github.com/WG-TJU/KR-PM-for-specific-figure.git```  
 Waiting……
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 The first one should be how to install(how to generally use your project or set-up for editing in their machine).
@@ -71,12 +77,14 @@ To use this project, first clone the repo on your device using the command below
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
 # Usage
-[(Back to top)](#table-of-contents)
+[(Back to top)](#table-of-contents)  
 Waiting……
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Development
-[(Back to top)](#table-of-contents)
+[(Back to top)](#table-of-contents)  
+For readme, we can go to 'readme-edit' branch(not 'main' branch) and then make our contributions. Finally we should create and merge pull requests.
+Emmm, maybe you need [this](https://docs.github.com/cn/get-started/quickstart/hello-world#merging-your-pull-request).  
 Waiting……
 <!-- This is the place where you give instructions to developers on how to modify the code.
 You could give **instructions in depth** of **how the code works** and how everything is put together.
@@ -85,20 +93,20 @@ Ideally, you should keep the README simple. If you need to add more complex expl
 
 # Contribute
 [(Back to top)](#table-of-contents)
-`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`
+
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
 Also this shows how you can add subsections within a section. -->
 
 ### Sponsor
-[(Back to top)](#table-of-contents)
-Tianjin University
+[(Back to top)](#table-of-contents)  
+Tianjin University  
 Wenge
 <!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
 You could add how people can sponsor your project in this section. Add your patreon or GitHub sponsor link here for easy access.
 A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
 
 ### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
+[(Back to top)](#table-of-contents)  
 Waiting……
 <!-- This is to give people an idea how they can raise issues or feature requests in your projects. 
 You could also give guidelines for submitting and issue or a pull request to your project.
@@ -106,13 +114,13 @@ Personally and by standard, you should use a [issue template](https://github.com
 You could also add contact details for people to get in touch with you regarding your project. -->
 
 # License
-[(Back to top)](#table-of-contents)
+[(Back to top)](#table-of-contents)  
 Waiting……
 <!-- Adding the license to README is a good practice so that people can easily refer to it.
 Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
 I personally add the name of the license and provide a link to it like below. -->
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+<!-- [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0) -->
 
 # Footer
 [(Back to top)](#table-of-contents)
@@ -120,7 +128,7 @@ I personally add the name of the license and provide a link to it like below. --
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
 Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
 
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
+Hope for your suggestions whether you think them helpful or not! 
 
 <!-- Add the footer here -->
 
