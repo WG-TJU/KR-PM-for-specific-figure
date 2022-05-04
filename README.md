@@ -8,11 +8,13 @@
 <!-- Add buttons here -->
 ![school](https://img.shields.io/badge/school-Tianjin%20University-blue)
 ![business](https://img.shields.io/badge/business%20-Wenge-orange)
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+
 <!-- Describe your project in brief -->
 Knowledge Representation &amp; behavior Pattern Mining for specific figures  
-This is a project of 'Wenge', and developers are from `Tianjin University`. Our aim is to explore how to build the Knowledge Representation system and to mine distinct knowledge pattern basic on our KR system. 
-Developed by:`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`
+This is a project of 'Wenge', and developers are from `Tianjin University`.  
+Our aim is to explore how to build the Knowledge Representation system and to mine distinct knowledge pattern basic on our KR system. 
+Developed by:`Shengyao Zhang` & `Xiaoyu Xu` & `Xianghe Ai` & `Ziwen Liu`  
+Instructed by:`Gan Yun`
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
@@ -61,10 +63,11 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 # Installation
 [(Back to top)](#table-of-contents)  
-To use this project, first clone the repo on your device using the command below:
-```git init```
+To use this project, first clone the repo on your device using the command below:  
+```git init```  
 ```git clone https://github.com/WG-TJU/KR-PM-for-specific-figure.git```  
-Waiting……
+  
+  Waiting……
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
@@ -83,9 +86,10 @@ Waiting……
 
 # Development
 [(Back to top)](#table-of-contents)  
-For readme, we can go to 'readme-edit' branch(not 'main' branch) and then make our contributions. Finally we should create and merge pull requests.
+For readme, we can go to 'readme-edit' branch(not 'main' branch) and then make our contributions. Finally we should create and merge pull requests.  
 Emmm, maybe you need [this](https://docs.github.com/cn/get-started/quickstart/hello-world#merging-your-pull-request).  
-Waiting……
+  
+  Waiting……
 <!-- This is the place where you give instructions to developers on how to modify the code.
 You could give **instructions in depth** of **how the code works** and how everything is put together.
 You could also give specific instructions to how they can setup their development environment.
@@ -100,7 +104,7 @@ Also this shows how you can add subsections within a section. -->
 ### Sponsor
 [(Back to top)](#table-of-contents)  
 Tianjin University  
-Wenge
+Beijing Zhongke Wenge Technology Co.
 <!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
 You could add how people can sponsor your project in this section. Add your patreon or GitHub sponsor link here for easy access.
 A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
@@ -113,10 +117,10 @@ You could also give guidelines for submitting and issue or a pull request to you
 Personally and by standard, you should use a [issue template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/ISSUE_TEMPLATE.md) and a [pull request template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/PULL_REQ_TEMPLATE.md)(click for examples) so that when a user opens a new issue they could easily format it as per your project guidelines.
 You could also add contact details for people to get in touch with you regarding your project. -->
 
-# License
+<!-- # License
 [(Back to top)](#table-of-contents)  
 Waiting……
-<!-- Adding the license to README is a good practice so that people can easily refer to it.
+Adding the license to README is a good practice so that people can easily refer to it.
 Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
 I personally add the name of the license and provide a link to it like below. -->
 
