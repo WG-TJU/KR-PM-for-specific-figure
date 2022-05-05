@@ -44,14 +44,16 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 # 更新记录
 ### 20220505
-README0.2.0
-1、添加了更新记录
+README0.2.0  
+
+1、添加了更新记录  
 2、增加了引用格式与参考文献
 
-### 20220504
-README0.1.0
-1、README大体完成
-2、增加了配图
+### 20220504  
+README0.1.0  
+  
+1、README大体完成  
+2、增加了配图  
 3、实现了中英文双语
 
 # 获取方式
