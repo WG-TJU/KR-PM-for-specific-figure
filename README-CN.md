@@ -31,13 +31,28 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [项目简介](#基于特定人物的知识表示与模式挖掘)
 - [项目预览](#项目预览)
 - [目录](#目录)
+- [更新记录](#更新记录)
 - [获取方式](#获取方式)
 - [使用说明](#使用说明)
-- [](#development)
+- [修改须知](#修改须知)
 - [贡献](#贡献)
     - [参与机构](#参与机构)
     - [贡献须知](#贡献须知)
+- [引用格式参考](#引用格式参考)
+- [参考文献](#参考文献)
 - [想说的话](#想说的话)
+
+# 更新记录
+### 20220505
+README0.2.0
+1、添加了更新记录
+2、增加了引用格式与参考文献
+
+### 20220504
+README0.1.0
+1、README大体完成
+2、增加了配图
+3、实现了中英文双语
 
 # 获取方式
 [(回到目录)](#目录)  
@@ -79,6 +94,27 @@ A good idea is to also display the sponsors with their organisation logos or bad
 对于readme文件的修改，可以在专门的'readme-edit'分支下（注意不是'main'分支）进行修改，修改后创建拉取请求即可，请在标题中简略描述修改的意义、在补充中说明修改的方式。  
 如果对github团队协作相关操作不太熟悉，您或许可以看看[这个文档](https://docs.github.com/cn/get-started/quickstart/hello-world#merging-your-pull-request)。  
 待添加……
+
+# 引用格式参考  
+
+如果本项目对您的研究有所帮助（那真是再好不过了），您可以参考如下格式进行饮用：  
+
+### BibTex  
+```
+@article{KR&PM-FSF,
+  author = {Ai, Liu, Xu, Zhang},
+  title = {Knowledge Representation and Pattern Mining for specific figure},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/WG-TJU/KR-PM-for-specific-figure}},
+  commit = {b9fdd98}
+}
+```
+
+# 参考文献  
+待添加……
+
 
 
 # 想说的话
