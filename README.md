@@ -59,10 +59,13 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Major update](#major-update)
 - [Development](#development)
 - [Contribute](#contribute)
     - [Sponsor](#sponsor)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
+- [Citation formats](#citation-formats)
+- [Reference](#reference)
 - [Footer](#footer)
 
 # Installation
@@ -89,6 +92,15 @@ To use this project, first clone the repo on your device using the command below
 [(Back to top)](#table-of-contents)  
 Waiting……
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
+
+# Major update  
+[(Back to top)](#table-of-contents)  
+### 20220505  
+README0.2.0  
+  
+1、For Chinese and English  
+2、Crude framework completed  
+3、Add a poster
 
 # Development
 [(Back to top)](#table-of-contents)  
@@ -136,6 +148,28 @@ Make sure you have added a LICENSE file in your project folder. **Shortcut:** Cl
 I personally add the name of the license and provide a link to it like below. -->
 
 <!-- [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0) -->
+
+# Citation formats  
+[(Back to top)](#table-of-contents)  
+If this project can make some contributions to your research, which is pretty good, you can choose to cite as the formats followed.  
+  
+### BibTex  
+```
+@article{KR&PM-FSF,
+  author = {Ai, Liu, Xu, Zhang},
+  title = {Knowledge Representation and Pattern Mining for specific figure},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/WG-TJU/KR-PM-for-specific-figure}},
+  commit = {b9fdd98}
+}
+```
+
+# Reference  
+[(Back to top)](#table-of-contents)  
+Waiting……
+
 
 # Footer
 [(Back to top)](#table-of-contents)
